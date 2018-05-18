@@ -1,2 +1,3 @@
-# PongSong
-A neural network ensemble that plays pong by generating music.
+# PongSong (RGARL-NN)
+
+A Recurrent Generative Adversarial Reinforcement Learning Algorithm.
