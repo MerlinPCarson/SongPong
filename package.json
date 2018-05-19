@@ -1,0 +1,15 @@
+{
+  "name": "twitter-crawler",
+  "version": "1.0.0",
+  "description": "crawl the shit out of topic",
+  "main": "index.js",
+  "dependencies": {
+    "twit": "^2.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nandadeep",
+  "license": "ISC"
+}
